@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SDA_2018_Assign2 Matthew Fader</string>
+    <string name="activity_main.button1">Implicit Intent: Open Camera</string>
+    <string name="activity_main.button2">Implicit Intent: View Picture</string>
+    <string name="activity_main.button3">Explicit Intent: Call an Activity</string>
+    <string name="activity_main.button4">Blank:Blank:Blank:Blank:Blank</string>
+    <string name="activity_main.button5">Send</string>
+</resources>
