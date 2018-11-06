@@ -13,7 +13,7 @@ import android.widget.ImageView;
 
 
 public class MainActivity extends AppCompatActivity {
-    public Button button3;
+    //public Button button3;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -61,12 +61,11 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-    /* This is the button to loads the activity 2 page with the text fields to fill in.
-        public void request_gallery(View v) {
-            Intent intent = new Intent(MainActivity.this, Main2Activity.class);
-            startActivity(intent);
-        */
-    public void startMain2Activity(View v) {
+    /*
+    This is the button to loads the activity 2 page with the text fields to fill in.
+    This info is sourced from the course text/videos
+    */
+    public void button3(View v) {
         Intent intent = new Intent(MainActivity.this, Main2Activity.class);
         startActivity(intent);}
 
