@@ -6,6 +6,12 @@
     <string name="activity_main.button4">Blank:Blank:Blank:Blank:Blank</string>
     <string name="activity_main.button5">Send</string>
 
-    <string name="activity_main2.textView0">@string/Main2Activity.data</string>
+    <string name="activity_main2.textView0">Email</string>
+    <string name="activity_main2.textView1">Subject</string>
+    <string name="activity_main2.textView2">Content</string>
+    <string name="activity_main2.textView3">what am i?</string>
+    <string name="activity_main.textView"></string>
+    <string name="irish">irishCities</string>
+    <string name="man">result</string>
 
 </resources>
