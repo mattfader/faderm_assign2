@@ -101,7 +101,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i(TAG, "<2nd>this is where pass the string text to the textView");
         setResult(Activity.RESULT_OK, intent);
         //!!!!the behavior is odd the textView only updates when you click on the "Explicit intent button a second time!!!!
-
+//This is my final version.
     }
 
 
